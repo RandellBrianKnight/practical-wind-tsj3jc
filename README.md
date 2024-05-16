@@ -8,9 +8,9 @@ npm create astro@latest -- --template portfolio
 [![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/portfolio)
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/portfolio/devcontainer.json)
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+> 🧑‍🚀 Astro Astronaut having fun!
 
-![portfolio](https://user-images.githubusercontent.com/357379/210779178-a98f0fb7-6b1a-4068-894c-8e1403e26654.jpg)
+![Hello-My-Name-Is-Randy (Astro Portfolio) screenshot 2024-05-16](https://github.com/RandellBrianKnight/practical-wind-tsj3jc/assets/6032445/e1e9fc34-3a73-48f0-8096-c1fdf3b2f235)
 
 ## 🧞 Commands
 
